@@ -76,6 +76,35 @@ restaurant-sentiment-analysis/
 
 ---
 
+## 📸 Live Demo & Screenshots
+
+### 🌐 Live Application
+**Try it yourself:** [Restaurant Sentiment Analyzer](https://restaurant-sentiment-analysis-ak.streamlit.app/)
+
+### Application Interface
+
+**Home Page**  
+![App Home](docs/images/Screenshot_app_home.png)
+
+**Positive Sentiment Result**  
+![Positive Result](docs/images/Screenshot_positive.png)
+
+**Negative Sentiment Result**  
+![Negative Result](docs/images/Screenshot_negative.png)
+
+### Analysis & Visualizations
+
+**Model Performance Comparison**  
+![Model Comparison](docs/images/Screenshot_model_comparison.png)
+
+**Word Cloud Analysis**  
+![Word Clouds](docs/images/Screenshot_worldcloud.png)
+
+**Confusion Matrix - Best Model (SVM)**  
+![Confusion Matrix](docs/images/Screenshot_confusion_matrix.png)
+
+---
+
 ## 🤖 Models Trained & Compared
 
 | Model | Accuracy | Precision | Recall | F1-Score |
