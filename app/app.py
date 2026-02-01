@@ -295,10 +295,21 @@ elif analyze_button:
     st.warning("⚠️ Please enter a review to analyze!")
 
 # ============================================================================
-# FOOTER
+# FOOTER WITH VISITOR COUNTER
 # ============================================================================
 
 st.markdown("---")
+
+# Visitor counter using hits.sh (more reliable)
+col1, col2, col3 = st.columns([1, 2, 1])
+
+with col2:
+    st.markdown("""
+    <div style='text-align: center;'>
+        <img src='https://hits.sh/github.com/Akakinad/restaurant-sentiment-analysis.svg?label=Visitors&color=4c1&labelColor=2c3e50' alt='Visitors'/>
+    </div>
+    """, unsafe_allow_html=True)
+
 st.markdown("""
 <div style='text-align: center; color: #7f8c8d; padding: 20px;'>
     <p>Built with Streamlit 🎈 | Powered by Machine Learning 🤖</p>
