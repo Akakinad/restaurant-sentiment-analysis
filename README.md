@@ -4,6 +4,7 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3.0-orange)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.28-red)
 ![License](https://img.shields.io/badge/License-MIT-green)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=Akakinad%2Frestaurant-sentiment-analysis&label=Visitors&countColor=%23263759&style=flat)
 
 A machine learning project that analyzes restaurant reviews to predict customer sentiment (positive/negative) using Natural Language Processing and classification algorithms.
 
